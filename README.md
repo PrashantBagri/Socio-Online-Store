@@ -15,6 +15,6 @@ MERN Stack portfolio project
 
 ## Screenshots
 
-#Home Page
+Home Page
 
 ![App Screenshot](frontend/public/HomePage.png)
