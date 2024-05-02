@@ -15,4 +15,4 @@ MERN Stack portfolio project
 
 ## Screenshots
 
-![App Screenshot](frontend\public\HomePage.png)
+![App Screenshot](frontend/public/HomePage.png)
